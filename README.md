@@ -8,6 +8,9 @@ My time is spent researching ideas and frameworks on the frontier of AI developm
 
 Projects:
 - [82-0 Auto-Research](https://github.com/SaxonWolcott/82-0-auto-research) - Auto-research loop optimizing a policy that plays the 82-0 basketball drafting game.
+- [Claude Research Agent](https://github.com/SaxonWolcott/claude-research-agent) - Autonomous research agent built using the Claude Agent SDK.
+- [Broseph](https://github.com/SaxonWolcott/broseph) - Group messaging app designed to keep friends in touch through real-time chat features.
+- [QASPER Deep Agents](https://github.com/SaxonWolcott/qasper-deep-agent) - Deep Agents harness that answers questions about NLP research papers from the QASPER dataset.
 <!--
 **SaxonWolcott/SaxonWolcott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
