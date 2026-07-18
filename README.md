@@ -5,6 +5,9 @@ I'm Saxon, a future Project Manager working with AI Agents & Applied AI Systems.
 I was a computer science major and Division I soccer player at the University of Maryland before starting my Master of Management at the University of Michigan.
 
 My time is spent researching ideas and frameworks on the frontier of AI developments and creating projects to learn about them.
+
+Projects:
+- [82-0 Auto-Research](https://github.com/SaxonWolcott/82-0-auto-research) - Auto-research loop optimizing a policy that plays the 82-0 basketball drafting game.
 <!--
 **SaxonWolcott/SaxonWolcott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
