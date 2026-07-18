@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hello! 🧑‍🦰👋
 
+I'm Saxon, a future Project Manager working with AI Agents & Applied AI Systems.
+
+I was a computer science major and Division I soccer player at the University of Maryland before starting my Master of Management at the University of Michigan.
+
+My time is spent researching ideas and frameworks on the frontier of AI developments and creating projects to learn about them.
 <!--
 **SaxonWolcott/SaxonWolcott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
